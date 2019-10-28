@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "sessionAttributes": {},
+  "response": {
+    "outputSpeech": {
+      "type": "PlainText",
+      "text": "Cette année, la lettre P est recommandée pour nommer votre animal",
+      "playBehavior": "ENQUEUE"
+    },
+    "shouldEndSession": true
+  }
+}
